@@ -1,0 +1,50 @@
+.nav-link {
+    color: white !important;
+ }
+#Navbar {
+     background-color:#050121
+     !important; 
+     color: white !important;
+     font-family: "Metropolis";
+
+}
+.Searchbox
+ {
+     height: 2.5rem;
+     margin-top : 0.4rem;
+     background: #2D396B !important;
+     outline: none;
+     border: none;
+     border-radius:14px;
+     /* margin: 0 0.3rem;
+     font-size: 1rem; */
+ }
+.navbarNav {
+    align-items: center;
+}
+.connect { 
+    background: #6D28D9;
+    border-radius: 14px;
+    color: #ffffff !important;  
+}
+.AddProduct {
+    background: #140D4A;
+    border-radius: 14px;
+    color: #A469FF !important;
+}
+.Right {
+    margin-right: 13%;
+}
+
+input[type=search] {
+    background: #2D396B !important;
+    color : white !important; 
+    border : none !important;
+    outline: none !important;
+}
+
+.Cont {
+   text-align: center !important;
+   align-items: center !important;
+   align-self: center !important;
+}
