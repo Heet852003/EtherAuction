@@ -1,0 +1,53 @@
+.main {
+  background-color: #050121;
+  color: aliceblue;
+  padding: 2%;
+}
+
+.backbtn {
+  background-color: #140d4a;
+  border-color: #140d4a;
+  color: #a469ff;
+  margin-left: 2%;
+}
+
+#date {
+  background-color: #2d396b;
+  border-color: #2d396b;
+  color: #fff;
+  margin-right: 0%;
+}
+
+
+.active {
+  background-color: #6d28d9 !important;
+}
+
+.btnSecondary {
+  background-color: #140d4a ;
+  border: none !important;
+}
+.cont {
+  background-color: #2d396b;
+  border-radius: 14px;
+  width: 70%;
+}
+.ListCont {
+  border-radius: 1em !important;
+  padding: 1em !important;
+}
+
+.abc {
+  background-color: white;
+}
+.toggleButton{
+  min-width: 45% ;
+  border-radius: 0.25rem !important;
+  font-size: 0.9rem !important;
+  align-items: center !important;
+}
+
+.text {
+  color: white;
+
+}
