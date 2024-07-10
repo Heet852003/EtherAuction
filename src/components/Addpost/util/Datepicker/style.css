@@ -1,0 +1,37 @@
+.MuiPickersBasePicker-pickerView{
+    background-color: #2D396B;
+}
+.MuiDialogActions-root  { 
+    background-color: #2D396B;
+}
+.MuiButton-textPrimary
+ {
+     background-color: #140D4A !important;
+     border-radius: 0.5rem !important;
+     color: #A469FF !important;
+ }
+.MuiIconButton-label
+ {
+     color: white  ;
+ }
+ .MuiPickersDay-dayDisabled {
+    color: #616D95 !important;
+    opacity: 0.2;
+ }
+
+.MuiInput-root   {
+    background-color: #2d396b;
+    color: #f3ebff;
+    margin: 0 10px 1em 10px !important;
+    letter-spacing: -0.02em !important; 
+    border: none !important;
+    outline: none !important;
+    border-radius: 14px !important;
+    padding-left: 1em !important;
+    min-height: 3rem !important;
+    height: auto !important;
+}
+
+.MuiFormControl-root {
+    width: 100% !important;
+}
