@@ -1,0 +1,31 @@
+
+  @media (max-width: 768px) {
+    .main {
+  
+    }
+    }
+    .main{
+      background-color: #EAF1FF;
+    }
+    body {
+      background-color:#050121;
+      color: white;
+      font-family: "Metropolis";
+    }
+  
+    .cont{
+      display: relative;
+      z-index: 9999;
+      background-color: rgba(1, 1, 1, 0.7);
+      bottom: 0;
+      left: 0;
+      position: fixed;
+      right: 0;
+      top: 0;  
+    }
+
+    .Loader {
+      display: absolute;
+      margin: auto;
+      top: 50vh;
+    }
