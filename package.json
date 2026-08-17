@@ -29,6 +29,7 @@
     "crypto": "^1.0.1",
     "crypto-js": "^4.0.0",
     "date-fns": "^2.22.1",
+    "dotenv": "^16.4.5",
     "formik": "^2.2.9",
     "hybrid-crypto-js": "^0.2.4",
     "ipfs-http-client": "^33.1.1",
